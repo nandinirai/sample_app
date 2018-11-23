@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="https://github.com/nandinirai/sample_app" uploadOnCheckin="0ec5e5d6-6a35-4cf3-9f25-d3b44811441e">
-    <option name="myUploadOnCheckinName" value="https://github.com/nandinirai/sample_app" />
-  </component>
+  <component name="PublishConfigData" serverName="https://github.com/nandinirai/sample_app" />
 </project>
