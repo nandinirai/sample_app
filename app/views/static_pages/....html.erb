@@ -1,2 +1,14 @@
-<h1>StaticPages#...</h1>
-<p>Find me in app/views/static_pages/....html.erb</p>
+<!DOCTYPE html>
+<html>
+<head>
+  <title><%= yield(:title) %> | Ruby on Rails Tutorial Sample App</title>
+  <%= csrf_meta_tags %>
+  <%= stylesheet_link_tag 'application', media: 'all',
+                          'data-turbolinks-track': 'reload' %>
+  <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+</head>
+
+<body>
+<%= yield %>
+</body>
+</html>
