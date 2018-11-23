@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="Helper" type="PLAIN_TEXT" />
       <mapping pattern="binary_tree.rb" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
