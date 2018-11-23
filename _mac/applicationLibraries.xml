@@ -334,6 +334,22 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="coderay (v1.1.2, ruby-2.0.0-p648) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/coderay-1.1.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/coderay-1.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/coderay-1.1.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/coderay-1.1.2/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/coderay-1.1.2/bin" />
+      </excluded>
+    </library>
     <library name="coffee-rails (v4.2.2, ruby-2.0.0-p648) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -549,6 +565,22 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="formatador (v0.2.5, ruby-2.0.0-p648) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/formatador-0.2.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/formatador-0.2.5/tests" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/formatador-0.2.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/formatador-0.2.5/tests" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/formatador-0.2.5/tests" />
+      </excluded>
+    </library>
     <library name="gem-wrappers (v1.4.0, ruby-2.0.0-p648) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -578,6 +610,28 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/globalid-0.4.1/lib" />
       </SOURCES>
+    </library>
+    <library name="guard (v2.15.0, ruby-2.0.0-p648) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/guard-2.15.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/guard-2.15.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/guard-2.15.0/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/guard-2.15.0/images" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/guard-2.15.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/guard-2.15.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/guard-2.15.0/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/guard-2.15.0/images" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/guard-2.15.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/guard-2.15.0/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/guard-2.15.0/images" />
+      </excluded>
     </library>
     <library name="i18n (v1.1.1, ruby-2.0.0-p648) [gem]" type="rubylib">
       <properties>
@@ -689,6 +743,22 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/loofah-2.2.3/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/loofah-2.2.3/benchmark" />
+      </excluded>
+    </library>
+    <library name="lumberjack (v1.0.13, ruby-2.0.0-p648) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/lumberjack-1.0.13/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/lumberjack-1.0.13/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/lumberjack-1.0.13/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/lumberjack-1.0.13/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/lumberjack-1.0.13/spec" />
       </excluded>
     </library>
     <library name="mail (v2.7.1, ruby-2.0.0-p648) [gem]" type="rubylib">
@@ -856,6 +926,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/multi_json-1.13.1/lib" />
       </SOURCES>
     </library>
+    <library name="nenv (v0.3.0, ruby-2.0.0-p648) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nenv-0.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nenv-0.3.0/lib" />
+      </SOURCES>
+    </library>
     <library name="net-telnet (v0.1.1, ruby-2.0.0-p648) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -932,6 +1013,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nokogiri-1.8.5/suppressions" />
       </excluded>
     </library>
+    <library name="notiffany (v0.1.1, ruby-2.0.0-p648) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/notiffany-0.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/notiffany-0.1.1/images" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/notiffany-0.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/notiffany-0.1.1/images" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/notiffany-0.1.1/images" />
+      </excluded>
+    </library>
     <library name="openssl (v2.1.0, ruby-2.0.0-p648) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -953,6 +1050,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/power_assert-1.1.1/bin" />
+      </excluded>
+    </library>
+    <library name="pry (v0.12.2, ruby-2.0.0-p648) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pry-0.12.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pry-0.12.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pry-0.12.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pry-0.12.2/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pry-0.12.2/bin" />
       </excluded>
     </library>
     <library name="psych (v3.0.2, ruby-2.0.0-p648) [gem]" type="rubylib">
@@ -1375,6 +1488,22 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/selenium-webdriver-3.141.0/lib" />
       </SOURCES>
+    </library>
+    <library name="shellany (v0.0.1, ruby-2.0.0-p648) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/shellany-0.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/shellany-0.0.1/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/shellany-0.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/shellany-0.0.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/shellany-0.0.1/spec" />
+      </excluded>
     </library>
     <library name="spring (v2.0.2, ruby-2.0.0-p648) [gem]" type="rubylib">
       <properties>
