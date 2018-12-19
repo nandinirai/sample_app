@@ -517,6 +517,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/capybara-3.12.0/spec" />
       </excluded>
     </library>
+    <library name="carrierwave (v1.2.2, ruby-2.0.0-p648) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/carrierwave-1.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/carrierwave-1.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="childprocess (v0.9.0, ruby-2.0.0-p648) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -1100,6 +1111,41 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/method_source-0.9.2/spec" />
       </excluded>
     </library>
+    <library name="mime-types (v3.2.2, ruby-2.0.0-p648) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/mime-types-3.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/mime-types-3.2.2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/mime-types-3.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/mime-types-3.2.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/mime-types-3.2.2/test" />
+      </excluded>
+    </library>
+    <library name="mime-types-data (v3.2018.0812, ruby-2.0.0-p648) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/mime-types-data-3.2018.0812/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/mime-types-data-3.2018.0812/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/mime-types-data-3.2018.0812/types" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/mime-types-data-3.2018.0812/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/mime-types-data-3.2018.0812/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/mime-types-data-3.2018.0812/types" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/mime-types-data-3.2018.0812/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/mime-types-data-3.2018.0812/types" />
+      </excluded>
+    </library>
     <library name="mimemagic (v0.3.2, ruby-2.0.0-p648) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -1118,6 +1164,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/mimemagic-0.3.2/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/mimemagic-0.3.2/script" />
       </excluded>
+    </library>
+    <library name="mini_magick (v4.7.0, ruby-2.0.0-p648) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/mini_magick-4.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/mini_magick-4.7.0/lib" />
+      </SOURCES>
     </library>
     <library name="mini_mime (v1.0.1, ruby-2.0.0-p648) [gem]" type="rubylib">
       <properties>
